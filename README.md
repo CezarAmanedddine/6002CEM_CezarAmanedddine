@@ -107,15 +107,14 @@ Certain important things (like the database where we keep our articles) should o
 By using these tricks, our app stays organized, works smoothly, and makes life easier for both users and developers.
 
 ## Screenshots
-
-<img width="471" alt="image" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/61326cb5-2853-4c39-afc4-a182619695b1">
-<img width="459" alt="image" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/88580ac5-6775-49fc-b252-6d9ff63a2007">
-<img width="454" alt="image" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/ec01f977-13c6-49ff-83b6-834a864f6c61">
-<img width="461" alt="image" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/984527db-fd4c-4759-a11d-57b53de6b8f7">
-<img width="469" alt="image" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/140f9760-761c-4f16-a1f0-14d06f37d5b6">
-<img width="473" alt="image" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/804bb7b4-37c3-42f0-9219-ceaadbde81f2">
-<img width="489" alt="image" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/e8f4491c-fa6c-41d9-8ff1-7a8f59ee988f">
-<img width="482" alt="image" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/1a9b3748-0d61-4c75-ad19-1e866fc2d3fd">
+<img width="471" alt="318220410-61326cb5-2853-4c39-afc4-a182619695b1" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/4e78a602-6ada-4d5b-8d2b-8acda8d0d5c5">
+<img width="471" alt="318220424-88580ac5-6775-49fc-b252-6d9ff63a2007" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/79e7b979-7042-4dd2-9f03-fa5df7f39ad4">
+<img width="471" alt="318220440-ec01f977-13c6-49ff-83b6-834a864f6c61" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/0e254cd2-c16f-4a13-9900-d704505dae54">
+<img width="471" alt="318220454-984527db-fd4c-4759-a11d-57b53de6b8f7" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/1c6ef891-338a-4dc1-a665-b4161f1bddab">
+<img width="471" alt="318220465-140f9760-761c-4f16-a1f0-14d06f37d5b6" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/1268eccf-726d-4a5f-af88-aeedb00b23ac">
+<img width="471" alt="318220481-804bb7b4-37c3-42f0-9219-ceaadbde81f2" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/000a921e-a113-451a-a762-23cb54fc3370">
+<img width="471" alt="318262557-e8f4491c-fa6c-41d9-8ff1-7a8f59ee988f" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/0d153d74-1477-418c-9f07-b69febd9e85e">
+<img width="471" alt="318262665-1a9b3748-0d61-4c75-ad19-1e866fc2d3fd" src="https://github.com/CezarAmanedddine/6002CEM_CezarAmanedddine/assets/165499095/fcb8033a-1348-40ac-8306-3c5f3ceddb57">
 
 
 
