@@ -143,12 +143,6 @@ Getting started with the .NET Maui News App is a breeze! Follow these simple ste
    dotnet restore
    ```
 
-4. **Build and Run the Application**: Build the project and launch the application using the following commands:
-   ```
-   dotnet build
-   dotnet run
-   ```
-
 ## Dependencies
 
 The .NET Maui News App leverages a range of dependencies to deliver its robust functionality:
